@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

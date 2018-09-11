@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

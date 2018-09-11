@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/51d165d7c1fb619298474f2f02ca5e0e6f6efa58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_ba5014eb4644e4cc0ee27932cd5215faf44c640f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_580f1f5142dab65cbf779aaaff5b9bdb8178555a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_6a1bfddf1475f9833387c4545ff11bef42bb8ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ade92702b3deeecd3550a7c40cd6292b8eae824c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_a09c3ed3967558c3764a8a20148c0e97f140dc0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_c845cc7e415d1f1eb0dee6610ec7df605f9c218e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/545baa46bf234333d22260e9adf177c1c49fef14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_372777a544508f768f3783515d8740931ad5ab8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/a52acff0ff1e360a1cb2a3b465bab53e739173ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_a3fb9487764a95c31d563ab608d2e0183eb00bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_4abf9667d27f0d92634bcb90822d368265e941ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2f2a2c16a8c68dda4a61e84428f26b0afc55ff17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_73099e4f99e63a7583ba5af8b0774860eee9e3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a1c7132d391cdd4470238759027a0fe268d5c15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_f985260b5adfb5e24bf81034c0d7d2a4dd796d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_a23dfe68d14ce0253bc839b05bf16f2f505b6762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/125e6060d12aab427c2ac3f8c9105f7013077abc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_7752a1f89010e67a8b64c73f3b1e4a014522b7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/7ff6bda5c0fc55d8877a68d411476d27b47fa6eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_ed5c1d9151786c535f9c6992d51eabe381c3989e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/8a4686fce4012915198243293d3a6b0c740e46df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_4c67b8f68deb43fa493d366a136ebe27d3c70939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/038c1e2173aeed922f91972897afb9bb695070fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_54293abbc3f133ecce954819ae9662eb3e9471dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_b1146de51704446c1c8f757233789321b41e59d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/1d0b13aba00cf7e90d23d883bfc72598283ba489/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_e99dc63738a67987b8930e9dcfcc0f7543856e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/43b242239ab05e8bb672c2736754bd056b4bbbd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_79a858873de17edc017dcaed1244c1c7d66e3a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/ee5bd24d7d29e41b4e78d47517cd78681e795613/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_b90535adb869023f3d9c2024bb09bf3ee70379d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_9f359fecf537930549432354c1a9a5975f9ea7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/338d71dd36a76788a631d8f561dff1b1e414a151/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_d20ad62a9075374479afadafe9dbbffdc11d466f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/8d0513374ee874ae89bcf8c11a0f028f0c431fcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_64103b0d9896cf2ffad08d892bc8da23c723c889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_327d414908f92b1861c74f089a5017a820c99bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/8a05a337eec98c053a58b1eca3e2a399125859ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_7bc1d4b53c086ab410a56f80c63d0d5ef0e89417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/53bfe07178d51da19ecbee0bf697704a2a9c6d6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_984d61aada6e9f7112f0647590d1dd8f508b2bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.android/build-cache/ae08e4bb7a09265c32f802816b59f26f3109d5f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_93ae3352b65eba5cbb3299918e6cb319d0a5351c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="36f0a908aa412a1a67a365f1df4f9ed1a28169e6">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/classes_bcf022116aaec644a2f2e1254150bf0b293d2cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/peretz30/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_8cea06294560f4663f29f03488513cf414e0798c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

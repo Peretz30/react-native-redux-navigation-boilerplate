@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    }
+]

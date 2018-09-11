@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:6:22-75
+application
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/peretz30/.android/build-cache/ee5bd24d7d29e41b4e78d47517cd78681e795613/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/peretz30/.android/build-cache/51d165d7c1fb619298474f2f02ca5e0e6f6efa58/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/peretz30/.android/build-cache/545baa46bf234333d22260e9adf177c1c49fef14/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/peretz30/.android/build-cache/1d0b13aba00cf7e90d23d883bfc72598283ba489/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/338d71dd36a76788a631d8f561dff1b1e414a151/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/8a05a337eec98c053a58b1eca3e2a399125859ef/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/peretz30/.android/build-cache/53bfe07178d51da19ecbee0bf697704a2a9c6d6a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/peretz30/.android/build-cache/43b242239ab05e8bb672c2736754bd056b4bbbd8/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/peretz30/.android/build-cache/7fa662275ccae1ef8d99fe7ed194938c45334dc0/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:allowBackup
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:icon
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:theme
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.kedr.MainActivity
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:14:7-24:18
+	android:label
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:19:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:21:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:22:6-70
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:22:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/peretz30/.android/build-cache/5e54f3706b332e4181d0b84fae209b203e66aba3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/peretz30/.android/build-cache/ee5bd24d7d29e41b4e78d47517cd78681e795613/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/peretz30/.android/build-cache/51d165d7c1fb619298474f2f02ca5e0e6f6efa58/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/peretz30/.android/build-cache/545baa46bf234333d22260e9adf177c1c49fef14/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/peretz30/.android/build-cache/1d0b13aba00cf7e90d23d883bfc72598283ba489/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/338d71dd36a76788a631d8f561dff1b1e414a151/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/8a05a337eec98c053a58b1eca3e2a399125859ef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/peretz30/.android/build-cache/53bfe07178d51da19ecbee0bf697704a2a9c6d6a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/peretz30/.android/build-cache/038c1e2173aeed922f91972897afb9bb695070fd/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/peretz30/.android/build-cache/a52acff0ff1e360a1cb2a3b465bab53e739173ee/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/peretz30/.android/build-cache/8d0513374ee874ae89bcf8c11a0f028f0c431fcc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/peretz30/.android/build-cache/7ff6bda5c0fc55d8877a68d411476d27b47fa6eb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/peretz30/.android/build-cache/125e6060d12aab427c2ac3f8c9105f7013077abc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/peretz30/.android/build-cache/8a4686fce4012915198243293d3a6b0c740e46df/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/peretz30/.android/build-cache/ae08e4bb7a09265c32f802816b59f26f3109d5f4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/peretz30/.android/build-cache/43b242239ab05e8bb672c2736754bd056b4bbbd8/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:30:22-73
+provider#android.support.v4.content.FileProvider
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:36:9-44:20
+	android:authorities
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:38:13-60
+	android:grantUriPermissions
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:40:13-47
+	android:exported
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [kedr:rn-fetch-blob:unspecified] /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:42:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/peretz30/.android/build-cache/ee5bd24d7d29e41b4e78d47517cd78681e795613/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/peretz30/.android/build-cache/51d165d7c1fb619298474f2f02ca5e0e6f6efa58/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/peretz30/.android/build-cache/545baa46bf234333d22260e9adf177c1c49fef14/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/peretz30/.android/build-cache/1d0b13aba00cf7e90d23d883bfc72598283ba489/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/338d71dd36a76788a631d8f561dff1b1e414a151/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/peretz30/.android/build-cache/8a05a337eec98c053a58b1eca3e2a399125859ef/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/peretz30/.android/build-cache/53bfe07178d51da19ecbee0bf697704a2a9c6d6a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/peretz30/.android/build-cache/830f6bc78a66e561a53a9991c460f01b247b532b/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/peretz30/.android/build-cache/0132becfb885507f56bd1770f06dd2c8ab446435/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/peretz30/.android/build-cache/936b39d5912adebdc9bb66ca7f7ea7d3819bb479/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

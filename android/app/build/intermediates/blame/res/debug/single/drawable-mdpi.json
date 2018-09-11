@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png",
+        "source": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png",
+        "source": "/Volumes/HDD/Projects/React Native/kedr_mobile/kedr/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    }
+]
